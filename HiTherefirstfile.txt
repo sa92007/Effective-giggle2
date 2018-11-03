@@ -1,1 +1,3 @@
 User Manual for Git hub course
+
+Adding some additional notes to test out.
